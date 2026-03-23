@@ -182,3 +182,10 @@
     border-right-color: var(--border);
   }
 }
+
+.borderCard {
+  border: 2px solid red;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 20px;
+}
