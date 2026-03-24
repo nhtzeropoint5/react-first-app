@@ -37,3 +37,6 @@ const friendsPromise = fetchFriends();
 }
 
 export default App
+
+
+///useEffect jinishta age data load korar jonno use kora hoito
